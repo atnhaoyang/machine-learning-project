@@ -1,0 +1,49 @@
+{
+  "best_experiment": "B6_ensemble_attention",
+  "target_mean": -1.1568683385849,
+  "target_std": 1.2753674983978271,
+  "drug_dim": 534,
+  "solvent_dim": 534,
+  "temperature_range": [
+    -59.5,
+    130.0
+  ],
+  "supported_temperature_range": [
+    5.0,
+    60.0
+  ],
+  "residual_q90": 1.5013307925057828,
+  "n_training_conditions": 1785,
+  "n_unique_drugs": 168,
+  "n_solvents": 49,
+  "metrics": {
+    "mae_mean": 0.640752344131067,
+    "mae_std": 0.16766594097155033,
+    "rmse_mean": 0.9024976732468432,
+    "rmse_std": 0.214293537751031,
+    "r2_mean": 0.4832338664531212,
+    "r2_std": 0.13744828402727707,
+    "spearman_mean": 0.7114782606056215,
+    "tolerance_accuracy_mean": 0.550140056022409,
+    "tolerance_accuracy_std": 0.09692443434801977,
+    "top3_solvent_accuracy_mean": 0.8581914637087051,
+    "top3_rank_groups_mean": 26.8,
+    "bias_mean": 0.0030756708249929736,
+    "mean_best_epoch": 9.2
+  },
+  "engine": "torch",
+  "ensemble_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "epochs": 25,
+  "model_config": {
+    "name": "B5_attention",
+    "model_type": "attention",
+    "hidden_dim": 96,
+    "dropout": 0.25
+  }
+}

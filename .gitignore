@@ -1,0 +1,21 @@
+.DS_Store
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+report_work/
+outputs/.mpl/
+~$*
+
+# Optional submission and reproducibility files kept locally.
+COMP6133_Project_Report.docx
+REPORT.md
+MODEL_CARD.md
+tests/
+outputs/experiment_log.json
+outputs/group_folds.csv
+outputs/metrics_detail.csv
+outputs/oof_predictions*.csv
+scripts/generate_report.py
+scripts/make_*.py

@@ -1,0 +1,50 @@
+smiles,label,solvent_conditions
+CC(O)CCO,"1,3-Butanediol",1
+CCCCO,1-Butanol,137
+CCCCCCCCCCO,1-Decanol,35
+CCCCCCCO,1-Heptanol,19
+CCCCCCO,1-Hexanol,47
+CCCCCCCCO,1-Octanol,211
+CCCO,1-Propanol,135
+CCC(C)O,2-Butanol,54
+CC(C)CO,2-Methyl-1-Propanol,24
+OCCc1ccccc1,2-Phenylethanol,1
+O=C1CCCN1,2-Pyrrolidone,1
+CC(C)CCO,3-Methyl-1-butanol,6
+CC(=O)O,Acetic Acid,67
+CC(=O)OC(C)=O,Acetic anhydride,1
+CC(C)=O,Acetone,358
+CC(=O)c1ccccc1,Acetophenone,14
+COc1ccccc1,Anisole,2
+CCCCOC(C)=O,Butyl Acetate,75
+CCCCOC(=O)CCC,Butyl butyrate,1
+CCCCOCCCC,Butyl ether,3
+ClC(Cl)(Cl)Cl,Carbon Tetrachloride,62
+Clc1ccccc1,Chlorobenzene,14
+ClC(Cl)Cl,Chloroform,114
+C1CCCCC1,Cyclohexane,70
+C1CCCC1,Cyclopentane,16
+OCCOCCO,Diethylene glycol,1
+CC(C)OC(C)C,Diisopropyl ether,3
+CN(C)C=O,Dimethyl Formamide,94
+CS(C)=O,Dimethyl Sulfoxide,26
+CCCCCCCCCCCC,Dodecane,10
+CCOC=O,Ethyl Formate,43
+CCOCC,Ethyl ether,2
+CCc1ccccc1,Ethylbenzene,33
+ClCCCl,Ethylene Dichloride,13
+OCCO,Ethylene Glycol,27
+CCCCCCOC(C)=O,Hexyl acetate,1
+COC(C)=O,Methyl Acetate,28
+COC(=O)C1CCCCC1,Methyl cyclohexane,3
+CC(=O)N(C)C,"N,N-Dimethylacetamide",1
+CNC=O,N-Methyl formamide,3
+CCCCCCCCC,Nonane,8
+CCCCCOC(C)=O,Pentyl acetate,1
+c1ccncc1,Pyridine,4
+CCCC(=O)OCC(COC(=O)CCC)OC(=O)CCC,Tributyrin,1
+CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,Tricaprylin,1
+CCCCCCCCC=CCCCCCCCC(=O)OCC(COC(=O)CCCCCCCC=CCCCCCCCC)OC(=O)CCCCCCCC=CCCCCCCCC,Triolein,1
+CCCCCCCCCCCCCCCCCC(=O)OCC(COC(=O)CCCCCCCCCCCCCCCCC)OC(=O)CCCCCCCCCCCCCCCCC,Tristearin,1
+CC(=O)OC(C)(C)C,tert-Butyl Acetate,10
+CCC(C)(C)O,tert-Pentyl alcohol,2
